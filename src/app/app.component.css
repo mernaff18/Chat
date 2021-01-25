@@ -1,0 +1,11 @@
+.menu{
+    display: inline-block;
+}
+.menu li{
+    display: inline;
+    padding: 10px;
+}
+
+.menu li a{
+    text-decoration: none;
+}
